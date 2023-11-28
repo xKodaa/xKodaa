@@ -2,5 +2,5 @@
 - 👨‍🎓 I'm currently a student of **University of Pardubice** (3rd year), where I'm trying to earn my Bachelor's degree
 - 👀 I’m interested in **Programming** and learning new stuff
 - 🌱 I’m currently learning **Java** and working as a **Java junior developer**
-- 🦾 I've got some experience with: **Java, JavaFX, C#, PHP, SQL, HTML, CSS, JavaScript**
-- 📫 You can DM me on Instagram - **@jakub.kodytek**, if you'd like to contact me with anything.
+- 🦾 I've got some experience with: **Java, JavaFX, C# + .NET (wpf), PHP, SQL and a bit Kotlin**
+- My LinkedIn: https://www.linkedin.com/in/jakub-kodytek-0b6313234/
