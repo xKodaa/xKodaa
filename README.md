@@ -3,7 +3,7 @@
 
 - **2024:** I've finished my bachelors degree at University of Pardubice - **IT branch** 👨‍🎓
 
-- I’m interested in programming, touristics, social activities and learning new stuff 
+- I’m interested in programming, touristics, gym, social activities and learning new stuff 
 
 - I’m currently Working as **Software developer** in **Redat Recording, a.s.**, programming mainly in **Java** 💻
 
@@ -11,16 +11,13 @@
 
 ### Programming 
 - Java
-- JavaFX 
 - Spring boot
 - C# & .NET
-- PHP + HTML + CSS + JavaScript
+- JavaFX / PHP / HTML / CSS / JavaScript (Not really my favorites)
 
 ### Database
-- MSSQL
+- MSSQL / SqlLite / MySql
 - PostgreSQL
-- SqlLite
-- MySql
 - Oracle database
 - InfluxDB
 
