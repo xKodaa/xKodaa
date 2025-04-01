@@ -31,8 +31,3 @@
 - Visualization software: **Grafana**
 - REST API
 - Docker
-
-## Socials
-- [LinkedIn](https://www.linkedin.com/in/jakub-kodytek-0b6313234/)
-- [Instagram](https://www.instagram.com/jakub.kodytek/)
-- [Facebook](https://www.facebook.com/j.kodytek)
